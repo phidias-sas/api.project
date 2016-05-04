@@ -1,6 +1,7 @@
 {
     "name": "phidias/api.project",
     "description": "A boilerplate phidias/api project",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "Santiago Cortés",
