@@ -1,0 +1,19 @@
+{
+    "name": "phidias/api.project",
+    "description": "A boilerplate phidias/api project",
+    "authors": [
+        {
+            "name": "Santiago Cortés",
+            "email": "santiago.cortes@phidias.com"
+        }
+    ],
+    "require": {
+        "phidias/api": "*",
+        "phidias/db": "*"
+    },
+    "config": {
+        "secure-http": false
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
