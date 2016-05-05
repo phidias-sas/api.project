@@ -10,6 +10,7 @@
     ],
     "require": {
         "phidias/api": "*",
+        "phidias/api-utilities": "*",
         "phidias/db": "*"
     },
     "config": {
